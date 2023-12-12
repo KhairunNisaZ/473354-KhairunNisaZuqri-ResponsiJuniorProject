@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KNZresponsi", "KNZresponsi\KNZresponsi.csproj", "{43EC1C41-6C98-4D9B-971E-E5549DCC0470}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43EC1C41-6C98-4D9B-971E-E5549DCC0470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43EC1C41-6C98-4D9B-971E-E5549DCC0470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43EC1C41-6C98-4D9B-971E-E5549DCC0470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43EC1C41-6C98-4D9B-971E-E5549DCC0470}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B324F902-1999-4B7C-9ABC-4DAB66D8246E}
+	EndGlobalSection
+EndGlobal
